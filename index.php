@@ -4,6 +4,6 @@
 	<title></title>
 </head>
 <body>
-<a href="app-release.aab" download>click to download</a>
+<a href="app-release.apk" download>click to download</a>
 </body>
 </html>
